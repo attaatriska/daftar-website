@@ -1,12 +1,7 @@
 # Open Access Indonesia
 
-## BUKU
-* [Buku KBBI](http://jurnal-oldi.or.id/public/kbbi.pdf)
-* [Pedoman Umum Ejaan Bahasa Indonesia](http://jurnal-oldi.or.id/public/puebi.pdf)
-
-## WEBSITE
-
-* Perpustakaan dan Jurnal
+* [Buku]((https://github.com/attaatriska/daftar-website/data/buku.md)
+* [Perpustakaan dan Jurnal](https://github.com/attaatriska/daftar-website/data/perpustakaan.md)
 
 ## SBMPTN
 * [SUSBM Education](http://susbm.education) 
