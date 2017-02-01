@@ -5,6 +5,7 @@
 * [Pedoman Umum Ejaan Bahasa Indonesia](http://jurnal-oldi.or.id/public/puebi.pdf)
 
 ## WEBSITE
+
 ### Jurnal
 #### Umum
 * [Digital Library for Physics and Astronomy](http://adsabs.harvard.edu)
@@ -19,9 +20,11 @@
 * [e-Jurnal](www.e-jurnal.com)
 * [Indonesian Publication Index](http://id.portalgaruda.org/)
 * [Jurnal *Online* LIPI](http://www.jurnal.lipi.go.id/)
+
 #### Bidang Ilmu
 ##### Entomologi	
 * [Jurnal Entomologi Indonesia](http://pei-pusat.org/jurnal/index.php/jei)
+
 ##### Oseanologi dan Limnologi
 * [Oseanologi dan Limnologi di Indonesia](http://jurnal-oldi.or.id/index.php/oldi)
 
