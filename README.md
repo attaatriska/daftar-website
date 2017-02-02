@@ -1,4 +1,4 @@
-# Open Access Indonesia
+# Daftar Website
 
 * [Buku](https://github.com/attaatriska/daftar-website/blob/master/data/buku.md)
 * [Perpustakaan dan Jurnal](https://github.com/attaatriska/daftar-website/blob/master/data/perpustakaan.md)

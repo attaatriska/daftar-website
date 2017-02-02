@@ -34,6 +34,7 @@
 
 ## Lainnya
 * [Perpustakaan Nasional Republik Indonesia](http://e-resources.perpusnas.go.id/)
+* [Buku Sekolah Elektronik](http://bse.kemdikbud.go.id/)
 
 ## Belum tersorting
 * [Mirror Server to Scientific Data](http://www.arsip.lipi.go.id/)
