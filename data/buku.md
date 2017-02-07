@@ -1,8 +1,12 @@
 #Buku
+Berikut daftar pdf buku buku, dari buku-buku umum (seperti KBBI) sampai catatan kuliah dosen
 
-## Bahasa
+# Buku Umum
 * [Buku KBBI](http://jurnal-oldi.or.id/public/kbbi.pdf)
 * [Pedoman Umum Ejaan Bahasa Indonesia](http://jurnal-oldi.or.id/public/puebi.pdf)
+
+
+# Buku Kuliah
 
 ## Matematika
 ### Kalkulus I
