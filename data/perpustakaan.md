@@ -4,10 +4,10 @@
 (mungkin lebih pantas masuk bagian belum tersortir)
 * [CERN Document Server](http://cds.cern.ch/)
 * [TESIS Online](http://tesis.pdii.lipi.go.id/)
-* [Indonesian Scientific Index](http://www.isi.lipi.go.id/)
-* [e-Jurnal](www.e-jurnal.com)
+* [Indonesian Scientific Index](http://isi.lipi.go.id/)
+* [e-Jurnal](http://e-jurnal.com)
 * [Indonesian Publication Index](http://id.portalgaruda.org/)
-* [Jurnal *Online* LIPI](http://www.jurnal.lipi.go.id/)
+* [Jurnal *Online* LIPI](http://jurnal.lipi.go.id/)
 * [Garuda (Garba Rujukan Digital)](http://garuda.dikti.go.id/)
 
 ## Universitas
@@ -24,10 +24,10 @@ Berikut adalah daftar jurnal yang dikelola oleh universitas di Indonesia
 Berikut adalah daftar jurnal yang dikelola oleh bidang ilmu yang bersangkutan
 * [Jurnal Kefarmasian Indonesia](http://ejournal.litbang.depkes.go.id/index.php/jki)
 * [Indonesian Journal of Urology](http://juri.urologi.or.id/)
-* [Jurnal Ekonomi](http://www.bi.go.id/id/publikasi/jurnal-ekonomi/Default.aspx)
-* [Jurnal Anestesiologi Indonesia](http://www.janesti.com/)
-* [Acta Medica Indonesiana – The Indonesian Journal of Internal Medicine](http://www.actamedindones.org/index.php/ijim)
-* [Indonesian Journal of Electrical Engineering and Computer Science](http://www.iaesjournal.com/online/index.php/TELKOMNIKA)
+* [Jurnal Ekonomi](http://bi.go.id/id/publikasi/jurnal-ekonomi/Default.aspx)
+* [Jurnal Anestesiologi Indonesia](http://janesti.com/)
+* [Acta Medica Indonesiana – The Indonesian Journal of Internal Medicine](http://actamedindones.org/index.php/ijim)
+* [Indonesian Journal of Electrical Engineering and Computer Science](http://iaesjournal.com/online/index.php/TELKOMNIKA)
 * [Jurnal Entomologi Indonesia](http://pei-pusat.org/jurnal/index.php/jei)
 * [Oseanologi dan Limnologi di Indonesia](http://jurnal-oldi.or.id/index.php/oldi)
 * [Indonesian Journal of Chemistry](http://ijc.chemistry.ugm.ac.id/)
@@ -41,10 +41,10 @@ Berikut adalah daftar jurnal yang dikelola oleh bidang ilmu yang bersangkutan
 
 ## Belum tersortir
 berikut daftar yang belum terklasifikasikan
-* [Mirror Server to Scientific Data](http://www.arsip.lipi.go.id/)
+* [Mirror Server to Scientific Data](http://arsip.lipi.go.id/)
 * [Indonesian Open Source Softwares](http://oss.arsip.lipi.go.id/)
-* [viXra.org](vixra.org)
-* [arXiv.org](arxiv.org)
+* [viXra.org](http://vixra.org)
+* [arXiv.org](http://arxiv.org)
 * [Digital Library for Physics and Astronomy](http://adsabs.harvard.edu)
 * [Physics Departments and Documents Network](http://de.physnet.net/PhysNet)
 * [High-Energy Physics Literature Database](http://inspirehep.net)

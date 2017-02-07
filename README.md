@@ -9,8 +9,8 @@ Ini adalah repositori untuk menyimpan daftar-daftar website (juga link) yang ber
 
 ##Unsorted
 ### Sesuai Namanya
-* [BelajarInggris](BelajarInggris.net)
+* [BelajarInggris](http://BelajarInggris.net)
 
 ### Gak Sesuai Namanya
 * Website yang berisi ringkasan bab pelajaran: [Materi78](http://materi78.wordpress.com)
-* Tempat belajar fotografi online: [Belfot](Belfot.com)
+* Tempat belajar fotografi online: [Belfot](http://Belfot.com)
