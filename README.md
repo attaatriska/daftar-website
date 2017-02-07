@@ -4,7 +4,7 @@ Ini adalah repositori untuk menyimpan daftar-daftar website (juga link) yang ber
 
 * Segala daftar tentang buku (tentu saja dalam bentuk pdf) dari KBBI sampai entahlah, dilihat di [Buku](/data/buku.md).
 * Seperti yang terlihat, [Perpustakaan dan Jurnal](/data/perpustakaan.md) berisi tentang
-* Daftar yang berkaitan dengan dunia kelas tiga SMA yang sedang menggapai masa depan (dari daftar informasi dan pengumuman sampai website tryout) ada di [Kelas 12](/data/snmsbm.md)
+* Daftar yang berkaitan dengan dunia kelas tiga SMA yang sedang menggapai masa depan (dari daftar informasi dan pengumuman sampai website tryout) ada di [Kelas 12](/data/kelas12.md)
 
 
 ##Unsorted
