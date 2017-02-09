@@ -19,12 +19,14 @@ Pastikan *pull request* Anda mematuhi pedoman berikut:
 
 ## Membuat daftar Anda sendiri
 
-Untuk membuat daftar Anda sendiri, ....
+...
 
 ## Menambahkan sesuatu ke daftar
 
-Jika Anda memiliki sesuatu yang menarik untuk diikutkan ke `daftar-website`, ada dua cara bagaimana Anda melakukannya:
-* Cara yang paling mudah adalah mengirimkan daftar ke [atta.atriska@gmail.com](atta.atriska@gmail.com). Pastikan ada deskripsi umum, dan item-itemnya dalam format `deskripsi -- link`.
-* Cara kedua (yang sebenarnya sama mudahnya) memerlukan [akun GitHub](https://github.com/join). setelah mendaftar, anda dapat memilih file yang ingin di-*edit* dan (tentu saja) mulai mengedit. Setelah selesai, tulis mengapa anda mengeditnya (seperti *"memperbaiki link-link yang broken"*), lalu klik pada "Propose file change". Selanjutnya tinggal mengirimkan [*pull request*]((https://help.github.com/articles/using-pull-requests/).
+Jika Anda memiliki sesuatu yang menarik untuk diikutkan ke `daftar-website`, anda memerlukan [akun GitHub](https://github.com/join).
+
+1. setelah mendaftar, anda dapat mengklik file yang ingin di-*edit*. ![klik file](/media/edit1.png)
+2. Lalu klik ikon edit (gambar pensil), dan mulai mengedit. ![mengedit file](/media/edit2.png)
+3. Setelah selesai, tulis mengapa anda mengeditnya (seperti *"memperbaiki link-link yang broken"*), selanjutnya klik pada "Commit changes". ![beri alasan](/media/edit3.png)
 
 
